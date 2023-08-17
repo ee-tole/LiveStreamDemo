@@ -27,7 +27,7 @@
       "*password*"
     ],
     "executionType": "Workflow",
-    "readyForPiP": false,
+    "readyForPiP": true,
     "startsInPiP": false,
     "mustRestoreAllDependencies": true,
     "pipType": "ChildSession"
